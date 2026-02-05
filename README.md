@@ -1,119 +1,104 @@
-# PRN222 – Demo Collections & ASP.NET Core MVC (Slot 1 – Slot 8)
+# PRN222 – Networking, Parallel Programming & SOLID Demos
 
-This repository contains demo source code for the **PRN222** course, covering fundamental concepts of **C#**, **OOP**, **Collections**, **LINQ**, and **ASP.NET Core MVC** through practical examples.
+This repository contains demo source code for the **PRN222** course, focusing on **network programming**, **parallel and asynchronous processing**, and **software design principles** using **C# and .NET**.
 
 ---
 
-##  Course Information
-- **Course**: PRN222 – C# Programming
+## 📌 Course Information
+- **Course Code**: PRN222
+- **Course Name**: C# Programming
 - **Semester**: Spring 2026
-- **Purpose**: Learning & practicing core C# and ASP.NET Core MVC concepts through demos
-- **IDE**: Visual Studio
-- **Framework**: .NET / ASP.NET Core MVC
+- **Lecturer**: QuangLTN3
+- **University**: FPT University Da Nang (FUDA)
+- **Purpose**: Academic demos and labs for learning core PRN222 concepts
 
 ---
 
-##  Demo Overview by Slot
+## Demo Contents by Slot
 
-### 🔹 Slot 1 – C# Basics & OOP Fundamentals
-**Topics:**
-- C# syntax basics
-- Classes & Objects
-- Properties and Methods
-- Encapsulation
+### 🔹 Slot 1 – URI, WebRequest & Networking Basics
+**Topics covered:**
+- URI structure and usage
+- `WebRequest` and `WebResponse`
+- `HttpClient` (Part 1 & Part 2)
+- DNS resolution
 
 **Demo highlights:**
-- Simple class models
-- Object creation and method invocation
+- Sending HTTP requests
+- Handling HTTP responses
+- Resolving domain names using DNS APIs
 
 ---
 
-### 🔹 Slot 2 – Collections in C#
-**Topics:**
-- `List<T>`, `Dictionary<TKey, TValue>`
-- `HashSet<T>`
-- Collection iteration
+### 🔹 Slot 2 – TCP & UDP Programming
+**Topics covered:**
+- TCP communication
+- UDP communication
+- Client–Server model
+- Socket programming basics
 
 **Demo highlights:**
-- CRUD operations using collections
-- Searching and filtering data in memory
+- TCP client/server demo
+- UDP message sending and receiving
+- Comparison between TCP and UDP behaviors
 
 ---
 
-### 🔹 Slot 3 – Generics & Interfaces
-**Topics:**
-- Generic classes and methods
-- Interfaces
-- Polymorphism
+### 🔹 Slot 3 – Parallel Programming (Demo 1–4)
+**Topics covered:**
+- Introduction to parallel programming
+- `Thread`
+- `Task`
+- `Parallel.For`, `Parallel.ForEach`
 
 **Demo highlights:**
-- Generic repository pattern (basic)
-- Interface-based design
+- Running multiple tasks concurrently
+- Performance comparison between sequential and parallel execution
+- Basic synchronization scenarios
 
 ---
 
-### 🔹 Slot 4 – LINQ Fundamentals
-**Topics:**
-- LINQ query syntax
-- LINQ method syntax
-- Filtering, sorting, grouping
+### 🔹 Slot 4 – PLINQ & Asynchronous Programming
+**Topics covered:**
+- Parallel LINQ (PLINQ)
+- `async` / `await`
+- Asynchronous task execution
 
 **Demo highlights:**
-- LINQ with collections
-- Real-world data querying scenarios
+- Data processing using PLINQ
+- Asynchronous methods with `Task`
+- Improving application responsiveness
 
 ---
 
-### 🔹 Slot 5 – File Handling & JSON
-**Topics:**
-- Reading/Writing files
-- JSON serialization & deserialization
-- Data persistence
+### 🔹 Slot 5 – SOLID Principles
+**Topics covered:**
+- Single Responsibility Principle (SRP)
+- Open/Closed Principle (OCP)
+- Liskov Substitution Principle (LSP)
+- Interface Segregation Principle (ISP)
+- Dependency Inversion Principle (DIP)
 
 **Demo highlights:**
-- Store and load data from JSON files
-- Simple data storage simulation
+- Applying SOLID principles in C#
+- Refactoring code for better maintainability
+- Extensible and clean architecture design
 
 ---
 
-### 🔹 Slot 6 – SOLID Principles
-**Topics:**
-- Single Responsibility Principle
-- Open/Closed Principle
-- Interface Segregation Principle
+### 🔹 Slot 8 – Lab 1
+**Topics covered:**
+- Applying PRN222 knowledge in practice
+- Integration of networking, async, and design principles
 
-**Demo highlights:**
-- Refactoring code to follow SOLID
-- Maintainable and extensible design
-
----
-
-### 🔹 Slot 7 – ASP.NET Core MVC Basics
-**Topics:**
-- MVC architecture
-- Controllers, Views, Models
-- Routing
-
-**Demo highlights:**
-- Simple ASP.NET Core MVC application
-- Data passing between Controller and View
+**Lab highlights:**
+- Hands-on implementation
+- Code structure following best practices
+- Preparation for midterm/final requirements
 
 ---
 
-### 🔹 Slot 8 – ASP.NET Core MVC + CRUD
-**Topics:**
-- CRUD operations
-- Model Binding
-- Validation
-- ViewModels
-
-**Demo highlights:**
-- Product management demo
-- Basic web application structure
-
----
-
-## 🛠️ How to Run the Demos
+## How to Run the Demos
 
 1. Clone the repository:
    ```bash
