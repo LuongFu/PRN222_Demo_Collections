@@ -4,7 +4,7 @@ This repository contains demo source code for the **PRN222** course, covering fu
 
 ---
 
-## 📌 Course Information
+##  Course Information
 - **Course**: PRN222 – C# Programming
 - **Semester**: Spring 2026
 - **Purpose**: Learning & practicing core C# and ASP.NET Core MVC concepts through demos
@@ -13,7 +13,7 @@ This repository contains demo source code for the **PRN222** course, covering fu
 
 ---
 
-## 📂 Demo Overview by Slot
+##  Demo Overview by Slot
 
 ### 🔹 Slot 1 – C# Basics & OOP Fundamentals
 **Topics:**
