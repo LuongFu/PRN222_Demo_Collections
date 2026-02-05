@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF50F2FD-8FDB-4B59-81E1-BC807CBEBC79}|WebRequestAndResponse\\WebRequestAndResponse.csproj|e:\\my spring 2026 documents\\prn222\\demo\\webrequestandresponse\\webrequestandresponse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF50F2FD-8FDB-4B59-81E1-BC807CBEBC79}|WebRequestAndResponse\\WebRequestAndResponse.csproj|solutionrelative:webrequestandresponse\\webrequestandresponse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3591D8B6-83CD-4924-9A39-20DE1CC6684B}|URIs\\URIs.csproj|e:\\my spring 2026 documents\\prn222\\demo\\uris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591D8B6-83CD-4924-9A39-20DE1CC6684B}|URIs\\URIs.csproj|solutionrelative:uris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3591D8B6-83CD-4924-9A39-20DE1CC6684B}|URIs\\URIs.csproj|e:\\my spring 2026 documents\\prn222\\demo\\uris\\uris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3591D8B6-83CD-4924-9A39-20DE1CC6684B}|URIs\\URIs.csproj|solutionrelative:uris\\uris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E866F-71DE-41F0-80CF-E9D4889C6C74}|HttpClient2\\HttpClient2.csproj|e:\\my spring 2026 documents\\prn222\\demo\\httpclient2\\httpclient2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{405E866F-71DE-41F0-80CF-E9D4889C6C74}|HttpClient2\\HttpClient2.csproj|solutionrelative:httpclient2\\httpclient2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276C3E9D-AD58-47C2-A1F8-6B2E25171269}|HttpClient1\\HttpClient1.csproj|e:\\my spring 2026 documents\\prn222\\demo\\httpclient1\\httpclient1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{276C3E9D-AD58-47C2-A1F8-6B2E25171269}|HttpClient1\\HttpClient1.csproj|solutionrelative:httpclient1\\httpclient1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79463D-CEDC-4AB9-860B-532FDF76694E}|DemoHttpClient\\DemoHttpClient.csproj|e:\\my spring 2026 documents\\prn222\\demo\\demohttpclient\\demohttpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B79463D-CEDC-4AB9-860B-532FDF76694E}|DemoHttpClient\\DemoHttpClient.csproj|solutionrelative:demohttpclient\\demohttpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebRequestAndResponse.csproj",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\WebRequestAndResponse\\WebRequestAndResponse.csproj",
+              "RelativeDocumentMoniker": "WebRequestAndResponse\\WebRequestAndResponse.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\WebRequestAndResponse\\WebRequestAndResponse.csproj",
+              "RelativeToolTip": "WebRequestAndResponse\\WebRequestAndResponse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T04:37:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "URIs.csproj",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\URIs\\URIs.csproj",
+              "RelativeDocumentMoniker": "URIs\\URIs.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\URIs\\URIs.csproj",
+              "RelativeToolTip": "URIs\\URIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T04:37:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpClient2.csproj",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\HttpClient2\\HttpClient2.csproj",
+              "RelativeDocumentMoniker": "HttpClient2\\HttpClient2.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\HttpClient2\\HttpClient2.csproj",
+              "RelativeToolTip": "HttpClient2\\HttpClient2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T04:37:05.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpClient1.csproj",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\HttpClient1\\HttpClient1.csproj",
+              "RelativeDocumentMoniker": "HttpClient1\\HttpClient1.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\HttpClient1\\HttpClient1.csproj",
+              "RelativeToolTip": "HttpClient1\\HttpClient1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T04:37:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoHttpClient.csproj",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\DemoHttpClient\\DemoHttpClient.csproj",
+              "RelativeDocumentMoniker": "DemoHttpClient\\DemoHttpClient.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\DemoHttpClient\\DemoHttpClient.csproj",
+              "RelativeToolTip": "DemoHttpClient\\DemoHttpClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T04:36:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\URIs\\Program.cs",
+              "RelativeDocumentMoniker": "URIs\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Demo\\URIs\\Program.cs",
+              "RelativeToolTip": "URIs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:30:09.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

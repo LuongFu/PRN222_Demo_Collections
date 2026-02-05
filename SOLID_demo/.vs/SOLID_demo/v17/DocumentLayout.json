@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\liskovsubstitutionprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\liskovsubstitutionprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\liskovsubstitutionprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\liskovsubstitutionprinciple\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A3905F3-B191-4CB2-BF99-6B74E8046531}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\interfacesegregationprinciple\\interfacesegregationprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{320BAAD4-C648-418E-8C77-DE5E7024EF11}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\interfacesegregationprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890C4015-D270-42B3-B6F6-1FE29884E7C0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\openclosedprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890C4015-D270-42B3-B6F6-1FE29884E7C0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890C4015-D270-42B3-B6F6-1FE29884E7C0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890C4015-D270-42B3-B6F6-1FE29884E7C0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C3C0A-62B6-40E7-800F-59DDD812DB62}|SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\singleresponsabilityprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210C3C0A-62B6-40E7-800F-59DDD812DB62}|SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj|solutionrelative:singleresponsabilityprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C3C0A-62B6-40E7-800F-59DDD812DB62}|SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\singleresponsabilityprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210C3C0A-62B6-40E7-800F-59DDD812DB62}|SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj|solutionrelative:singleresponsabilityprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C3C0A-62B6-40E7-800F-59DDD812DB62}|SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj|e:\\my spring 2026 documents\\prn222\\code\\solid_demo\\singleresponsabilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210C3C0A-62B6-40E7-800F-59DDD812DB62}|SingleResponsabilityPrinciple\\SingleResponsabilityPrinciple.csproj|solutionrelative:singleresponsabilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:16:36.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:16:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:16:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:16:20.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStore.json",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T03:16:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:01:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:01:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookStore3.json",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T03:00:59.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookStore2.json",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T03:00:47.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookStore1.json",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T03:00:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterfaceSegregationPrinciple",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T02:59:26.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:59:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:58:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:04:45.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\OpenClosedPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\OpenClosedPrinciple\\Program.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T00:49:18.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\SingleResponsabilityPrinciple\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "SingleResponsabilityPrinciple\\Model\\IBook.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\SingleResponsabilityPrinciple\\Model\\IBook.cs",
+              "RelativeToolTip": "SingleResponsabilityPrinciple\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T00:38:37.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\SingleResponsabilityPrinciple\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "SingleResponsabilityPrinciple\\Model\\Book.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\SingleResponsabilityPrinciple\\Model\\Book.cs",
+              "RelativeToolTip": "SingleResponsabilityPrinciple\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T00:38:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\SingleResponsabilityPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "SingleResponsabilityPrinciple\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\SOLID_demo\\SingleResponsabilityPrinciple\\Program.cs",
+              "RelativeToolTip": "SingleResponsabilityPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T00:37:08.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

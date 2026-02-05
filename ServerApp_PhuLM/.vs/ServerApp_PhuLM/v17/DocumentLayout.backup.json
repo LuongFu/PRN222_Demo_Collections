@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DDBDB-086C-45A5-A5DF-25A666352E5A}|UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj|e:\\my spring 2026 documents\\prn222\\code\\serverapp_phulm\\udpserverapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DDBDB-086C-45A5-A5DF-25A666352E5A}|UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj|solutionrelative:udpserverapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CAC595-DC96-40A7-925B-AA67EC55CA4B}|UDPClientApp_PhuLM\\UDPClientApp_PhuLM.csproj|e:\\my spring 2026 documents\\prn222\\code\\serverapp_phulm\\udpclientapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CAC595-DC96-40A7-925B-AA67EC55CA4B}|UDPClientApp_PhuLM\\UDPClientApp_PhuLM.csproj|solutionrelative:udpclientapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DDBDB-086C-45A5-A5DF-25A666352E5A}|UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj|e:\\my spring 2026 documents\\prn222\\code\\serverapp_phulm\\udpserverapp_phulm\\udpserverapp_phulm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC7DDBDB-086C-45A5-A5DF-25A666352E5A}|UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj|solutionrelative:udpserverapp_phulm\\udpserverapp_phulm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33289658-6199-4DDC-95FF-F8CE9A783579}|ClientApp_PhuLM\\ClientApp_PhuLM.csproj|e:\\my spring 2026 documents\\prn222\\code\\serverapp_phulm\\clientapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33289658-6199-4DDC-95FF-F8CE9A783579}|ClientApp_PhuLM\\ClientApp_PhuLM.csproj|solutionrelative:clientapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97A2C1-AEC0-4891-A433-141BE22291AB}|ServerApp_PhuLM\\ServerApp_PhuLM.csproj|e:\\my spring 2026 documents\\prn222\\code\\serverapp_phulm\\serverapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C97A2C1-AEC0-4891-A433-141BE22291AB}|ServerApp_PhuLM\\ServerApp_PhuLM.csproj|solutionrelative:serverapp_phulm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UDPServerApp_PhuLM",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj",
+              "RelativeDocumentMoniker": "UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj",
+              "RelativeToolTip": "UDPServerApp_PhuLM\\UDPServerApp_PhuLM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T04:19:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\UDPServerApp_PhuLM\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServerApp_PhuLM\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\UDPServerApp_PhuLM\\Program.cs",
+              "RelativeToolTip": "UDPServerApp_PhuLM\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:17:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\UDPClientApp_PhuLM\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientApp_PhuLM\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\UDPClientApp_PhuLM\\Program.cs",
+              "RelativeToolTip": "UDPClientApp_PhuLM\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:17:21.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\ClientApp_PhuLM\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp_PhuLM\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\ClientApp_PhuLM\\Program.cs",
+              "RelativeToolTip": "ClientApp_PhuLM\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T03:24:09.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\ServerApp_PhuLM\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp_PhuLM\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\ServerApp_PhuLM\\ServerApp_PhuLM\\Program.cs",
+              "RelativeToolTip": "ServerApp_PhuLM\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T03:18:19.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

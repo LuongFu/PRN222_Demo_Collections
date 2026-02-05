@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831D22CB-2741-4F90-ADEC-1A8C43464A98}|AsyncExample\\AsyncExample.csproj|e:\\my spring 2026 documents\\prn222\\code\\plinqnasync\\asyncexample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D22CB-2741-4F90-ADEC-1A8C43464A98}|AsyncExample\\AsyncExample.csproj|solutionrelative:asyncexample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D22CB-2741-4F90-ADEC-1A8C43464A98}|AsyncExample\\AsyncExample.csproj|e:\\my spring 2026 documents\\prn222\\code\\plinqnasync\\asyncexample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{831D22CB-2741-4F90-ADEC-1A8C43464A98}|AsyncExample\\AsyncExample.csproj|solutionrelative:asyncexample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB7DE83-0521-4E1D-8CB1-A5F5BFEEA6D8}|Asynchronous_demo2\\Asynchronous_demo2.csproj|e:\\my spring 2026 documents\\prn222\\code\\plinqnasync\\asynchronous_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB7DE83-0521-4E1D-8CB1-A5F5BFEEA6D8}|Asynchronous_demo2\\Asynchronous_demo2.csproj|solutionrelative:asynchronous_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF0B559-D561-46ED-9D7C-37FDCB2535B4}|Asynchronous_demo1\\Asynchronous_demo1.csproj|e:\\my spring 2026 documents\\prn222\\code\\plinqnasync\\asynchronous_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF0B559-D561-46ED-9D7C-37FDCB2535B4}|Asynchronous_demo1\\Asynchronous_demo1.csproj|solutionrelative:asynchronous_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6538A0-04FE-48C1-93C7-8AE493963869}|PLINQ_demo2\\PLINQ_demo2.csproj|e:\\my spring 2026 documents\\prn222\\code\\plinqnasync\\plinq_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6538A0-04FE-48C1-93C7-8AE493963869}|PLINQ_demo2\\PLINQ_demo2.csproj|solutionrelative:plinq_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D293C94-A22A-42CF-B95A-3C559F23AD23}|PLINQ_demo1\\PLINQ_demo1.csproj|e:\\my spring 2026 documents\\prn222\\code\\plinqnasync\\plinq_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D293C94-A22A-42CF-B95A-3C559F23AD23}|PLINQ_demo1\\PLINQ_demo1.csproj|solutionrelative:plinq_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\AsyncExample\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncExample\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\AsyncExample\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AsyncExample\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:23:59.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\Asynchronous_demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Asynchronous_demo2\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\Asynchronous_demo2\\Program.cs",
+              "RelativeToolTip": "Asynchronous_demo2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:23:00.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\Asynchronous_demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Asynchronous_demo1\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\Asynchronous_demo1\\Program.cs",
+              "RelativeToolTip": "Asynchronous_demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:22:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\PLINQ_demo2\\Program.cs",
+              "RelativeDocumentMoniker": "PLINQ_demo2\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\PLINQ_demo2\\Program.cs",
+              "RelativeToolTip": "PLINQ_demo2\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:21:14.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\PLINQ_demo1\\Program.cs",
+              "RelativeDocumentMoniker": "PLINQ_demo1\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\PLINQ_demo1\\Program.cs",
+              "RelativeToolTip": "PLINQ_demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:20:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\AsyncExample\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsyncExample\\MainWindow.xaml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\PLINQnAsync\\AsyncExample\\MainWindow.xaml",
+              "RelativeToolTip": "AsyncExample\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-15T03:24:00.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
