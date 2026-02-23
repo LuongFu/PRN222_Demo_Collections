@@ -97,6 +97,12 @@ This repository contains demo source code for the **PRN222** course, focusing on
 - Preparation for midterm/final requirements
 
 ---
+### 🔹 Slot 11 - Ajax & EF Scaffold
+- Using Model Binding in Razor Pages to takes values from HTTP requests and maps them to handler method parameters or PageModel properties.
+- Create custom validation class
+- Create a Model using DataAnnotations and custom validation.
+- Razor Pages with Entity Framework
+- Scaffold Student pages
 
 ## How to Run the Demos
 
