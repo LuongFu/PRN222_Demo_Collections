@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpagewithef\\webrazorpagewithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E375B82-EE0E-4D76-91C2-4D80360FBAAA}|WebRazorPageWithEF\\WebRazorPageWithEF.csproj|solutionrelative:webrazorpagewithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:15:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:15:43.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:13:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:13:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:13:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:13:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:13:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Details.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:13:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:13:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:13:30.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:13:29.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "WebRazorPageWithEF\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T04:13:29.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Program.cs",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\Program.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\Program.cs",
+              "RelativeToolTip": "WebRazorPageWithEF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:58:54.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\appsettings.json",
+              "RelativeDocumentMoniker": "WebRazorPageWithEF\\appsettings.json",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageWithEF\\WebRazorPageWithEF\\appsettings.json",
+              "RelativeToolTip": "WebRazorPageWithEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T03:58:42.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

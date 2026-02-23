@@ -1,0 +1,46 @@
+﻿@page
+@model WebRazorPageAjaxDemo.Pages.CustomerFormModel
+@{
+    var customerinfo = Model.customerInfo;
+
+    if (customerinfo != null)
+    {
+        <h3>@Model.Message</h3>
+        <div asp-validation-summary="All"></div>
+        if (ModelState.IsValid)
+        {
+            <div class="card">
+                <div class="card-body">
+                    <p><strong>Customer name: </strong> @customerinfo.CustomerName</p>
+                    <p><strong>Customer email: </strong> @customerinfo.Email</p>
+                    <p><strong>Year Of Birth: </strong> @customerinfo.YearOfBirth</p>
+                </div>
+            </div>
+        }
+    }
+}
+
+<h3>Customer information</h3>
+<form method="post" class="m-2 p-3 bg-light">
+    <div class="form-group">
+        <label asp-for="@customerinfo.CustomerName"></label>
+        <input class="form-control" asp-for="@customerinfo.CustomerName" />
+        <span asp-validation-for="@customerinfo.CustomerName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@customerinfo.Email"></label>
+        <input class="form-control" asp-for="@customerinfo.Email" />
+        <span asp-validation-for="@customerinfo.Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@customerinfo.YearOfBirth"></label>
+        <input class="form-control" asp-for="@customerinfo.YearOfBirth" />
+        <span asp-validation-for="@customerinfo.YearOfBirth" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-primary" asp-page="Form">Send</button>
+    </div>
+</form>

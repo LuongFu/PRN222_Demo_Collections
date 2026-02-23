@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\pages\\customerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\pages\\customerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\pages\\uploadfiles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\pages\\uploadfiles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\pages\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\pages\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\pages\\customerform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\pages\\customerform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\validation\\customervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\validation\\customervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|e:\\my spring 2026 documents\\prn222\\code\\webrazorpageajaxdemo\\webrazorpageajaxdemo\\binding\\checknamebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B318261-8510-4164-803A-03E1E5CF4941}|WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo.csproj|solutionrelative:webrazorpageajaxdemo\\binding\\checknamebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T03:22:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadFiles.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:17:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadFiles.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Pages\\UploadFiles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T03:14:57.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerForm.cshtml.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml.cs",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml.cs",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:13:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.cshtml",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Pages\\CustomerForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T03:11:13.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Models\\Customer.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:07:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerValidation.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Validation\\CustomerValidation.cs",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Validation\\CustomerValidation.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Validation\\CustomerValidation.cs",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Validation\\CustomerValidation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:00:39.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckNameBinding.cs",
+              "DocumentMoniker": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Binding\\CheckNameBinding.cs",
+              "RelativeDocumentMoniker": "WebRazorPageAjaxDemo\\Binding\\CheckNameBinding.cs",
+              "ToolTip": "E:\\My Spring 2026 Documents\\PRN222\\Code\\WebRazorPageAjaxDemo\\WebRazorPageAjaxDemo\\Binding\\CheckNameBinding.cs",
+              "RelativeToolTip": "WebRazorPageAjaxDemo\\Binding\\CheckNameBinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:59:46.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
